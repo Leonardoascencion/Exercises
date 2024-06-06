@@ -1,0 +1,15 @@
+D:\Documents\cibernetica real\Programacion\Ejercicios\bin\Debug\net7.0\Ejercicios.exe
+D:\Documents\cibernetica real\Programacion\Ejercicios\bin\Debug\net7.0\Ejercicios.deps.json
+D:\Documents\cibernetica real\Programacion\Ejercicios\bin\Debug\net7.0\Ejercicios.runtimeconfig.json
+D:\Documents\cibernetica real\Programacion\Ejercicios\bin\Debug\net7.0\Ejercicios.dll
+D:\Documents\cibernetica real\Programacion\Ejercicios\bin\Debug\net7.0\Ejercicios.pdb
+D:\Documents\cibernetica real\Programacion\Ejercicios\obj\Debug\net7.0\Ejercicios.csproj.AssemblyReference.cache
+D:\Documents\cibernetica real\Programacion\Ejercicios\obj\Debug\net7.0\Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\cibernetica real\Programacion\Ejercicios\obj\Debug\net7.0\Ejercicios.AssemblyInfoInputs.cache
+D:\Documents\cibernetica real\Programacion\Ejercicios\obj\Debug\net7.0\Ejercicios.AssemblyInfo.cs
+D:\Documents\cibernetica real\Programacion\Ejercicios\obj\Debug\net7.0\Ejercicios.csproj.CoreCompileInputs.cache
+D:\Documents\cibernetica real\Programacion\Ejercicios\obj\Debug\net7.0\Ejercicios.dll
+D:\Documents\cibernetica real\Programacion\Ejercicios\obj\Debug\net7.0\refint\Ejercicios.dll
+D:\Documents\cibernetica real\Programacion\Ejercicios\obj\Debug\net7.0\Ejercicios.pdb
+D:\Documents\cibernetica real\Programacion\Ejercicios\obj\Debug\net7.0\Ejercicios.genruntimeconfig.cache
+D:\Documents\cibernetica real\Programacion\Ejercicios\obj\Debug\net7.0\ref\Ejercicios.dll
